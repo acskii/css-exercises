@@ -5,7 +5,10 @@ This one is a little nicer looking, and a little closer to something you might s
 ## Desired outcome
 ![desired outcome](./desired-outcome.png)
 
-### Self Check
+### Self Check (Completed)
+#### < Result is relatively close to outcome >
+( Big button might not as big as needed.. )
+
 Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
 
 - There is 8px between the edge of the card and its content (the blue sections).
