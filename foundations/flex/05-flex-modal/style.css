@@ -15,11 +15,38 @@ body {
   justify-content: center;
 }
 
+.header {
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px;
+  flex: 1;
+  margin-bottom: 8px;
+}
+
+.text {
+  margin-bottom: 8px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.row {
+  display: flex;
+  justify-content: flex-start;
+  gap: 4px;
+}
+
 .modal {
   background: white;
+  display: flex;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 16px;
+  gap: 16px;
 }
 
 .icon {
@@ -31,6 +58,7 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
 }
